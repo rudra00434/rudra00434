@@ -1,6 +1,6 @@
-## Hi there! I am Rudranil Goswami 
 <img width="3780" height="1890" alt="Blue and White Illustrated Welcome Banner" src="https://github.com/user-attachments/assets/7d72418f-b5aa-476c-b4e0-a74df72c1098" />
 
+# Hi there! I am Rudranil Goswami 
 # 💫 About Me:
 🔭 I’m currently working on Full Stack E-commerce website project <br>👯 I’m looking to collaborate on Group Projects <br>🤝 I’m looking for help with Technical Stuffs<br>🌱 I’m currently learning Java full Stack<br>💬 Ask me about web Dev , Gen AI &  Data Structure and Algorithm(DSA) <br>⚡ Fun fact I once built a project a that accidentally turned into a powerful Developer tool
 
