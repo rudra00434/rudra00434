@@ -10,6 +10,7 @@
 
 <div align="center">
   
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-me-ycdu.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudranil-goswami-a33340298)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/rudranil-goswami)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/NilTatai77986)
@@ -24,6 +25,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=845EF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Workspace!+👋;Let's+Build+Something+Amazing+Together!+✨" alt="Welcome Message" />
 </p>
 
+<div align="center">
+
+### 🌐 Check Out My Portfolio
+
+[![Visit Portfolio](https://img.shields.io/badge/🚀_VISIT_MY_PORTFOLIO-Click_Here-gradient?style=for-the-badge&logo=google-chrome&logoColor=white&color=339AF0)](https://portfolio-me-ycdu.onrender.com)
+
+*Explore my projects, skills, and professional journey!*
+
+</div>
+
 <br/>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
@@ -34,6 +45,7 @@
 const rudranil = {
     pronouns: "He/Him",
     location: "Durgapur, West Bengal, India",
+    portfolio: "https://portfolio-me-ycdu.onrender.com",
     currentFocus: ["Full Stack Development", "Generative AI", "System Design"],
     learning: ["Java Full Stack", "LLM Engineering", "Cloud Architecture"],
     
@@ -694,6 +706,8 @@ Keyboard: ⌨️ Mechanical (Blue switches)
 
 ### 📬 How to reach me:
 
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-255E63?style=for-the-badge&logoColor=white)](https://portfolio-me-ycdu.onrender.com)
+
 [![Email](https://img.shields.io/badge/Email-tatairudra39@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tatairudra39@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudranil-goswami-a33340298)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/NilTatai77986)
@@ -702,7 +716,7 @@ Keyboard: ⌨️ Mechanical (Blue switches)
 
 ### ⚡ Quick Links:
 
-🌐 Portfolio Website (Coming Soon) | 📝 [Tech Blog](#) | 💻 [Code Snippets](#) | 📚 [Resources](#)
+🌐 [**Portfolio Website**](https://portfolio-me-ycdu.onrender.com) | 📝 [Tech Blog](#) | 💻 [Code Snippets](#) | 📚 [Resources](#)
 
 </div>
 
@@ -741,3 +755,4 @@ Keyboard: ⌨️ Mechanical (Blue switches)
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:339AF0,100:845EF7&height=120&section=footer" />
 </div>
+
