@@ -72,10 +72,11 @@ Hello! I'm a passionate **Full Stack Developer** currently honing my skills in *
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rudra00434/rudra00434/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra00434&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 <br />
@@ -86,20 +87,25 @@ Hello! I'm a passionate **Full Stack Developer** currently honing my skills in *
 
 <br />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rudra00434&theme=tokyonight&no-frame=true&margin-w=4" alt="Trophies" />
-</div>
+<table align="center">
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rudra00434&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra00434&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudra00434&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra00434&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rudra00434&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 </div>
 
 <br />
@@ -111,5 +117,15 @@ Hello! I'm a passionate **Full Stack Developer** currently honing my skills in *
 <br />
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rudra00434&icon=5&color=4" alt="Visit Counter" />
+  
+[![](https://visitcount.itsvg.in/api?id=rudra00434&icon=5&color=4)](https://visitcount.itsvg.in)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💬 Let's Connect and Build Something Amazing Together!
+
 </div>
