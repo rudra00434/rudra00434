@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=339AF0&center=true&vCenter=true&width=600&lines=Hi+there!+I+am+Rudranil+Goswami;Full+Stack+Developer+%26+LLM+Engineer;Java+%7C+Python+%7C+Django+%7C+AI;Always+Building+Something+New..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=339AF0&center=true&vCenter=true&width=600&lines=Hi+there!+I+am+Rudranil+Goswami;Full+Stack+Developer+%26+LLM+Engineer;Java+%7C+Python+%7C+Django+%7C+AI;Always+Building+Something+New..." alt="Typing SVG" />
   </a>
 </div>
 
@@ -81,13 +81,7 @@ Hello! I'm a passionate **Full Stack Developer** currently honing my skills in *
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudra00434&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra00434&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=rudra00434&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
@@ -99,12 +93,23 @@ Hello! I'm a passionate **Full Stack Developer** currently honing my skills in *
 <br />
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rudra00434&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rudra00434&icon=5&color=4" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra00434&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
+<br />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=rudra00434&icon=5&color=4" alt="Visit Counter" />
+</div>
