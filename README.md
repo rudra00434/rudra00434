@@ -111,9 +111,8 @@ Hello! I'm a passionate **Full Stack Developer** currently honing my skills in *
 <br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rudra00434&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rudra00434&theme=tokyonight&no-frame=true&margin-w=4" />
 </div>
-
 <br />
 
 <div align="center">
