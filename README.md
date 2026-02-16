@@ -97,9 +97,6 @@ Hello! I'm a passionate **Full Stack Developer** currently honing my skills in *
 </div>
 
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudra00434&theme=tokyonight&hide_border=true" alt="streak graph" />
-</div>
 
 <br />
 
