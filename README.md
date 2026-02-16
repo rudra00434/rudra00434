@@ -2,6 +2,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.gif" width="200" alt="Coding Animation" />
 </div>
 
+ <br/>
 
 <div align="center">
   <img width="100%" src="https://github.com/user-attachments/assets/7d72418f-b5aa-476c-b4e0-a74df72c1098" alt="Welcome Banner" />
