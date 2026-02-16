@@ -72,7 +72,6 @@ Hello! I'm a passionate **Full Stack Developer** currently honing my skills in *
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -82,8 +81,8 @@ Hello! I'm a passionate **Full Stack Developer** currently honing my skills in *
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudra00434&show_icons=true&theme=tokyonight" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra00434&layout=compact&theme=tokyonight" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rudra00434&show_icons=true&theme=tokyonight&t=1" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra00434&layout=compact&theme=tokyonight&t=1" height="160" alt="languages graph" />
 </div>
 
 <br />
