@@ -1,142 +1,112 @@
-<img width="3780" height="1890" alt="Blue and White Illustrated Welcome Banner" src="https://github.com/user-attachments/assets/7d72418f-b5aa-476c-b4e0-a74df72c1098" />
+<div align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/7d72418f-b5aa-476c-b4e0-a74df72c1098" alt="Welcome Banner" />
+</div>
 
-<h1 align="center">Hi 👋, I'm Rudranil Goswami</h1>
-<h3 align="center">Full-Stack Developer • AI Enthusiast • Problem Solver</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=339AF0&center=true&vCenter=true&width=600&lines=Hi+there!+I+am+Rudranil+Goswami;Full+Stack+Developer+%26+LLM+Engineer;Java+%7C+Python+%7C+Django+%7C+AI;Always+Building+Something+New..." alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudranil-goswami-a33340298)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/rudranil-goswami)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/NilTatai77986)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tatairudra39@gmail.com)
+
+</div>
+
+<br />
+
+## ⚡ About Me
+
+> *"I once built a project that accidentally turned into a powerful Developer tool."*
+
+Hello! I'm a passionate **Full Stack Developer** currently honing my skills in **Java Full Stack** and **Generative AI**. I love solving complex architectural problems and building scalable web applications.
+
+- 🔭 **Current Project:** Building a Full Stack E-commerce platform.
+- 👯 **Collaboration:** Open to collaborating on Group Projects and Open Source.
+- 🤝 **Mentorship:** Happy to help with Technical Challenges & Debugging.
+- 💬 **Ask me about:** Web Dev, Gen AI, Django, Compiler Design & DSA.
 
 ---
 
-## 💫 About Me
-- 🔭 Currently building a **Full-Stack E-Commerce Platform**
-- 👯 Open to **Collaborative Group Projects**
-- 🤝 Seeking help & discussions on **Advanced Technical Topics**
-- 🌱 Learning **Java Full-Stack Development**
-- 💬 Ask me about **Web Development, Gen-AI, DSA**
-- ⚡ Fun Fact: I once built a project that accidentally evolved into a **Developer Tool**
+## 💻 Technical Arsenal
 
----
-
-## 🌐 Connect With Me
-<p align="center">
-<a href="https://linkedin.com/in/rudranil-goswami-a33340298"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/rudranil-goswami"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"/></a>
-<a href="https://x.com/NilTatai77986"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/></a>
-<a href="mailto:tatairudra39@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-# 💻 Tech Arsenal
-
-## 🧠 Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### **Languages**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
-
-## 🚀 Frameworks & Libraries
+### **Frontend & Frameworks**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### **Backend & AI**
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
----
-
-## ☁️ Deployment & BaaS
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
----
-
-## 🗄 Databases
+### **Database & Cloud**
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
----
-
-## 📊 Data & Analytics
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
-
-## ⚙️ DevOps & Version Control
+### **Tools & DevOps**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
----
-
-## 🧪 API Testing
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🎨 Design Tools
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/rudra00434/rudra00434/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
----
+<br />
 
-# 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudra00434&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra00434&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="languages graph"  />
+</div>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rudra00434&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=rudra00434&theme=blue-green&hide_border=false"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra00434&theme=blue-green&hide_border=false&layout=compact"/>
-</p>
+<br />
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudra00434&theme=tokyonight&hide_border=true" alt="streak graph" />
+</div>
 
-## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rudra00434&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
-</p>
+<br />
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rudra00434&theme=tokyonight&no-frame=true&margin-w=4" />
+</div>
 
-## ✍️ Random Dev Quote
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
+<br />
 
----
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
-## 🔝 Top Contributed Repositories
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=rudra00434&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
-</p>
+<br />
 
----
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=rudra00434&icon=0&color=0"/>
-</p>
-
-
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=rudra00434&icon=5&color=4" />
+</div>
 
