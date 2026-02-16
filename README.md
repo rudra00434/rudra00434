@@ -94,18 +94,14 @@ Hello! I'm a passionate **Full Stack Developer** currently honing my skills in *
 <br />
 
 <table align="center">
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rudra00434&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra00434&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=rudra00434&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra00434&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
 </table>
 
 <br />
@@ -122,15 +118,11 @@ Hello! I'm a passionate **Full Stack Developer** currently honing my skills in *
 <br />
 
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=rudra00434&icon=5&color=4)](https://visitcount.itsvg.in)
-
+  [![](https://visitcount.itsvg.in/api?id=rudra00434&icon=5&color=4)](https://visitcount.itsvg.in)
 </div>
 
----
+<br />
 
 <div align="center">
-  
-### 💬 Let's Connect and Build Something Amazing Together!
-
+  <h3>💬 Let's Connect and Build Something Amazing Together!</h3>
 </div>
