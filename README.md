@@ -82,8 +82,8 @@ Hello! I'm a passionate **Full Stack Developer** currently honing my skills in *
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudra00434&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra00434&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rudra00434&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra00434&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="languages graph" />
 </div>
 
 <br />
