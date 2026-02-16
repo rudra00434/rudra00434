@@ -81,11 +81,21 @@ Hello! I'm a passionate **Full Stack Developer** currently honing my skills in *
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudra00434&show_icons=true&theme=tokyonight&t=1" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra00434&layout=compact&theme=tokyonight&t=1" height="160" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudra00434&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rudra00434&theme=tokyonight&no-frame=true&margin-w=4" alt="Trophies" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/rudra00434?template=classic&base=header%2C+repositories&config.timezone=Asia%2FKolkata" alt="Metrics" />
+</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudra00434&theme=tokyonight&hide_border=true" alt="streak graph" />
