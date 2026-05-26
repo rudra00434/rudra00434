@@ -1,3 +1,4 @@
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:339AF0,100:845EF7&height=200&section=header&text=Rudranil%20Goswami&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </div>
@@ -294,7 +295,7 @@ journey
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🛒 E-Commerce Platform</h3>
+<h3 align="center">🛒 EcomCRM - Al powered smart business intelligence System with Smart Analytics Dashboard</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -334,7 +335,7 @@ journey
 
 <tr>
 <td width="50%">
-<h3 align="center">📊 Data Analytics Dashboard</h3>
+<h3 align="center">📊 SoulPlayer : Music , Podcast & Radio Streaming Web application</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -353,7 +354,7 @@ journey
 </td>
 
 <td width="50%">
-<h3 align="center">🎮 Developer Productivity Tool</h3>
+<h3 align="center">🎮 RansomwareShield - AI powered Advance Cybersecurity Platform</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=java&logoColor=white" />
@@ -623,21 +624,6 @@ graph LR
 
 ---
 
-## 📝 Latest Blog Posts
-
-<div align="center">
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 Building Scalable Microservices with Spring Boot
-- 🤖 A Deep Dive into RAG Systems and Vector Databases  
-- ⚡ Optimizing React Performance: Best Practices
-- 🔐 Implementing JWT Authentication in Spring Security
-- 📊 Real-time Data Processing with Apache Kafka
-<!-- BLOG-POST-LIST:END -->
-
-</div>
-
----
 
 ## 🎯 2026 Goals
 
