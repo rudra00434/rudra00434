@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="./profile-3d-contrib/profile-green.svg" alt="3D Contrib" width="600" />
+      <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contrib" width="800" />
     </td>
     <td>
       <!-- Replace with your other image path or link -->
