@@ -614,8 +614,9 @@ keyboard: mechanical, blue switches
 > "Make it work, make it right, make it fast." — Kent Beck
 
 <br/>
-
-![Visitor Count](https://profile-counter.glitch.me/rudra00434/count.svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rudra00434&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge" alt="Profile Views" />
+</p>
 
 `$ echo "thanks for visiting — have a great day"`
 
