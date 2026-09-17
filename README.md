@@ -258,7 +258,7 @@ Full-stack e-commerce & CRM platform — real-time inventory management, admin d
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/live__demo-000000?style=for-the-badge&logoColor=39FF14" /></a>
-<a href="#"><img src="https://img.shields.io/badge/source-000000?style=for-the-badge&logo=github&logoColor=39FF14" /></a>
+<a href="https://github.com/rudra00434/EcomCRM.git"><img src="https://img.shields.io/badge/source-000000?style=for-the-badge&logo=github&logoColor=39FF14" /></a>
 </p>
 
 ---
@@ -282,7 +282,7 @@ Real-time listening rooms over WebSockets via Django Channels, JioSaavn API inte
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/live__demo-000000?style=for-the-badge&logoColor=39FF14" /></a>
-<a href="#"><img src="https://img.shields.io/badge/source-000000?style=for-the-badge&logo=github&logoColor=39FF14" /></a>
+<a href="https://github.com/rudra00434/SoulPlayer.git"><img src="https://img.shields.io/badge/source-000000?style=for-the-badge&logo=github&logoColor=39FF14" /></a>
 </p>
 
 </td>
@@ -307,7 +307,7 @@ Intelligent chatbot powered by LLMs with semantic search and RAG. Implements con
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/live__demo-000000?style=for-the-badge&logoColor=39FF14" /></a>
-<a href="#"><img src="https://img.shields.io/badge/source-000000?style=for-the-badge&logo=github&logoColor=39FF14" /></a>
+<a href="https://github.com/rudra00434/CodeNova.Devs.git"><img src="https://img.shields.io/badge/source-000000?style=for-the-badge&logo=github&logoColor=39FF14" /></a>
 </p>
 
 ---
