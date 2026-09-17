@@ -1,6 +1,5 @@
 <img width="200" height="600" alt="ascii-art" src="https://github.com/user-attachments/assets/c9286912-a519-4d2b-9ec4-9c9cb08ed2eb" />
-<img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/cea5d069-29ac-47f0-a998-ad14de92baed" />
-
+<img src="./profile-3d-contrib/profile-3d-contrib.svg" alt="GitHub 3D Contribution Graph" />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:000000&height=180&section=header&text=RUDRANIL%20GOSWAMI&fontSize=52&fontColor=39FF14&fontAlignY=45&animation=fadeIn" />
