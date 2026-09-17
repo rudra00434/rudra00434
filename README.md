@@ -1,5 +1,14 @@
-<img width="1119" height="2000" alt="profile-3d" src="./profile-3d-contrib/profile-green.svg" alt="GitHub 3D Contribution Graph" />
-
+<table>
+  <tr>
+    <td>
+      <img src="./profile-3d-contrib/profile-green.svg" alt="3D Contrib" width="600" />
+    </td>
+    <td>
+      <!-- Replace with your other image path or link -->
+      <img src="https://github.com/user-attachments/assets/c93564f8-297e-4933-a77e-5c1562eaf34c" alt="Other Image" width="500" />
+    </td>
+  </tr>
+</table>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:000000&height=180&section=header&text=RUDRANIL%20GOSWAMI&fontSize=52&fontColor=39FF14&fontAlignY=45&animation=fadeIn" />
 </div>
