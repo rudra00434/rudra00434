@@ -19,7 +19,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           # Name of the GitHub user to generate the graph for
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name:  rudra00434 
           # List of files to generate
           outputs: |
             dist/github-contribution-grid-snake.svg
