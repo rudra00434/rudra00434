@@ -16,16 +16,21 @@
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║  root@rudranil:~$ whoami                                       ║
-║  > Full Stack Developer · Generative AI Engineer                ║
-║                                                                  ║
-║  root@rudranil:~$ status --current                             ║
-║  > Final-year CS Student @ Asansol Engineering College (MAKAUT) ║
-║  > Based in Durgapur, West Bengal, India                        ║
-║  > Open to: Internships · Collaborations · Open Source          ║
-╚══════════════════════════════════════════════════════════════╝
+        ██████╗ ██╗   ██╗██████╗ ██████╗  █████╗
+        ██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔══██╗
+        ██████╔╝██║   ██║██║  ██║██████╔╝███████║
+        ██╔══██╗██║   ██║██║  ██║██╔══██╗██╔══██║
+        ██║  ██║╚██████╔╝██████╔╝██║  ██║██║  ██║
+        ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+              ╲        ╲        ╲
+               ╲________╲________╲
+        ┌──────────────────────────────────┐
+        │  FULL-STACK  ×  GENAI ENGINEER  │
+        │  Java • Python • React • Django │
+        │  FastAPI • PostgreSQL • Redis   │
+        └──────────────────────────────────┘
 ```
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=650&lines=%3E+full+stack+developer+%26+ai+engineer_;%3E+java+%7C+python+%7C+django+%7C+react_;%3E+building+scalable+systems...+_;%3E+always_learning%3D%3Dtrue_;%3E+status%3A+online+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
@@ -143,7 +148,7 @@ journey
 
 <div align="center">
 
-![Spring Boot](https://img.shields.io/badge/spring_boot-000000?style=for-the-badge&logo=spring&logoColor=39FF14)
+![FastAPI](https://img.shields.io/badge/fastapi-000000?style=for-the-badge&logo=fastapi&logoColor=39FF14)
 ![Django](https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django&logoColor=39FF14)
 ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=39FF14)
 ![Node.js](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=39FF14)
@@ -292,6 +297,7 @@ $ cd ai-chatbot-rag/ && cat README.md
 <div align="center">
 
 ![Python](https://img.shields.io/badge/python-000000?style=flat-square&logo=python&logoColor=39FF14)
+![FastAPI](https://img.shields.io/badge/fastapi-000000?style=for-the-badge&logo=fastapi&logoColor=39FF14)
 ![LangChain](https://img.shields.io/badge/langchain-000000?style=flat-square&logoColor=39FF14)
 ![OpenAI](https://img.shields.io/badge/openai-000000?style=flat-square&logo=openai&logoColor=00FFFF)
 
