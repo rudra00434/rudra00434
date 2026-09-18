@@ -1,11 +1,11 @@
 <table>
   <tr>
     <td>
-      <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contrib" width="800" />
+      <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contrib" width="1000" />
     </td>
     <td>
       <!-- Replace with your other image path or link -->
-      <img src="https://github.com/user-attachments/assets/c93564f8-297e-4933-a77e-5c1562eaf34c" alt="Other Image" width="500" />
+      <img src="https://github.com/user-attachments/assets/c93564f8-297e-4933-a77e-5c1562eaf34c" alt="Other Image" width="700" />
     </td>
   </tr>
 </table>
